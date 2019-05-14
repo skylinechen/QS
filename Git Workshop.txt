@@ -40,8 +40,8 @@ Commit內容: 第四個版本建立
 Commit內容: Division Training要到了，所以我們做了一份基礎的報告，需要變更QQsync資料夾的所有資訊
 
 
-Branch命名:   allen_part_ppt
+Branch命名:   allen_branch
 檔案內容:     小Allen加入了他負責的部份的投影片內容
-Branch命名:   king_part_ppt
+Branch命名:   king_branch
 檔案內容:     Kim加入了他負責的部份的投影片內容
 ---------------------------------------------------
