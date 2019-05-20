@@ -48,7 +48,9 @@ Kim、Miyai和小Allen分別以此作為基礎去製作自己負責部分的投�
 Commit內容:  Division Training要到了，所以我們做了一份基礎的報告，需要變更QQsync資料夾的所有資訊
 
 
-Branch命名:   allen_branch
-檔案內容:     小Allen加了報告的歷史發展到投影片裡
-Commit內容:   小Allen加了兩頁
+Branch命名:   AllenXL
+檔案命名:     有趣影片網址.txt
+檔案內容:     小Allen先放有趣影片的網址到自己複製的資料夾內
+Commit內容:   小Allen加了補充資料
+
 ---------------------------------------------------
