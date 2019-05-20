@@ -1,6 +1,6 @@
 -------------------git的功能介紹-----------------------
 1.Repository   : 儲藏庫(與Qsync資料夾相似)
-2.Commit       : 每一次變動的確認
+2.Commit       : 每一次資料修改都要做Commit確認，Commit後會產生新的版本
 3.Clone        : 複製資料到自己電腦
 4.Branch       : 產生另外一條支線
 5.Pull request : 把支線或fork同步或整合所送出的request
